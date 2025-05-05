@@ -2,6 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=1-pluto1&show_icons=true&theme=transparent)
 
+
+![Visitor Count](https://profile-counter.glitch.me/1-pluto1/count.svg)
+
 <!--
 **1-pluto1/1-pluto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
