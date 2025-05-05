@@ -1,7 +1,7 @@
 ### Yoo, I'm Pluto 👋
-<img align="right" alt="GIF" src="heart.gif?raw=true" width="320" height="320" />
-  
+<img align="right" alt="GIF" src="heart.gif?raw=true" width="310" height="310" />
 
+  
  [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/1-pluto1)
   
 <p align="center">
@@ -12,14 +12,11 @@
     <br />
     <br />👀 Take a look at my status  
     <br />
-    <br />
   </samp>
-
+  
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-pluto1&layout=compact&theme=buefy&hide_border=true" /> </a> |[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E2B3F7&center=true&vCenter=true&width=447&lines=Just-do-it.;%E2%80%94%E2%80%94Pluto)](https://git.io/typing-svg) 
 | ------------- | ------------- |
-
 </p>
-
   <samp>
      🧰 Python / C/C++ / TypeScript / Java
     <br />🧑‍🎓 Computer Science Student
