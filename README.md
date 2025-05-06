@@ -22,7 +22,7 @@
     <br />🧑‍🎓 Computer Science Student
     <br />💻 Machine Learning Engineer(on going)
     <br />📚 Love reading & 🎮 video game & 🎵 music(wide range)
-    <br />📓 How about taking a look of my blog? 👉 <a href="https://1-pluto1.github.io/pluto/" target="_blank">Pluto</a>
+    <br />📓 How about taking a look of my blog? 👉 <a href="https://uestcyz.top" target="_blank">Pluto</a>
     <br />💬 Ask me about anything, i am happy to help, just <a href="im.yang.zhao.edu@gmail.com">email me</a> :)
   </samp>
 
