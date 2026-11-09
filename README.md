@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" src="assets/soyo.webp" alt="Soyo smiling" width="160" hspace="40" />
+<img align="right" src="assets/soyo.webp" alt="Soyo smiling" width="160" hspace="80" vspace="30" />
 
 ### 🌷 About me
 
