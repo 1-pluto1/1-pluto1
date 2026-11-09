@@ -10,7 +10,7 @@
 
 ### 🌷 About me
 
-- 🎓 **Sun Yat-sen University** — M.S. in Computer Technology, 2026–2029
+- 🎓 **Sun Yat-sen University** — M.S. in Computer Science, 2026–2029
 - 🏫 **UESTC** — B.Eng. in Software Engineering, 2022–2026
 - 🤖 Working on **Embodied AI**, also keeping an eye on **AI Agents**
 - 📍 Guangzhou, China
