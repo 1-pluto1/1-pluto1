@@ -14,7 +14,7 @@
 - 🏫 **UESTC** — B.Eng. in Software Engineering, 2022–2026
 - 🤖 Working on **Embodied AI**, also keeping an eye on **AI Agents**
 - 📍 Guangzhou, China
-- 📚 Reading · 🎮 Games · 🎵 Music (wide range)
+- 📚 Reading · 📺 Anime · 🎵 Music (wide range)
 
 ### 🧰 Toolbox
 
