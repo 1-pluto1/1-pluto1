@@ -32,4 +32,4 @@ Always happy to chat about research, ideas, or anything at all~
 
 <br/><br/>
 
-<p align="center"><sub>✌️ peace & love</sub></p>
+<p align="right"><i>✌️ peace & love</i></p>
