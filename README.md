@@ -4,12 +4,6 @@
 
 <p><i>do something, be someone.</i></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=B07F62&center=true&vCenter=true&width=460&lines=Exploring+Embodied+AI+%F0%9F%A4%96;Curious+about+AI+Agents+%E2%9C%A8" alt="Exploring Embodied AI, curious about AI Agents" /></a>
-
-<br/>
-
-<code>Embodied AI</code> <code>AI Agents</code>
-
 </div>
 
 <img align="right" src="assets/soyo.webp" alt="Soyo smiling" width="160" />
